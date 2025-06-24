@@ -1,7 +1,3 @@
-Absolutely! Here's your Chapter 2 summary formatted cleanly in Markdown, with **no content changes**—just improved structure, spacing, and readability:
-
----
-
 # 📘 _Venture Deals_ – Chapter 2 Summary
 
 **"Preparing for Fundraising" by Brad Feld and Jason Mendelson**
